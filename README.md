@@ -2,10 +2,9 @@
 
 Auto updating values and graphs for p5js.
 
-<div style="text-align:center;">
-  <img style="border-radius: 1rem;" src="gif.gif" alt="gif">
-</div>
+!["gif"](gif.gif)
 <hr>
+
 ## Usage
 You just need the `debugWindow.js` includede in your html file.
  - requires `p5.js v1.9.2`
